@@ -35,7 +35,8 @@ To run the WiFi-Doctor:
 1. Place your **.pcap/pcapng** files in the /pcap_files folder inside the main folder.
 
 2. In the terminal, run:
-   ```
+   ```py
+   pip install matplotlib pandas tqdm pyshark
    python wifi_doctor.py
    ```
    
