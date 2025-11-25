@@ -12,7 +12,7 @@ To run the SpeedTest:
 
 1. **Open two terminal windows.**
 
-2. In the **first terminal**, run the following commands:
+2. In the **first terminal**, run the following command:
    ```bash
    make
    ./server
